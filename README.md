@@ -28,6 +28,6 @@ This repository contains the data pipeline developed as part of my internship.
 ## Author:
 MANIGANDAN
 
-#Output
+##Output
 
 ![Image](https://github.com/user-attachments/assets/6d5fa8a7-bc70-4fe8-b282-678510195f39)
